@@ -18,6 +18,7 @@ print("나이 = ", age)
 
 print("감사합니다")
 print("안녕히 가세요")
+print("다음에 또 만나요")
 
 if habbit =="운동":
   print("운동 같이 해요")
